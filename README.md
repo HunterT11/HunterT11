@@ -1,77 +1,108 @@
-# 👋 Hi, I'm Thạch
+# Hi, I'm Thạch 👋
 
-🚀 **Senior Mobile App Developer | React Native & Flutter Expert | Full-Cycle Product Builder**
+### Senior Flutter Developer | Mobile Software Engineer
 
----
+*Building scalable, high-performance mobile applications with clean architecture and thoughtful user experiences.*
 
-## 🧑‍💻 About Me
+I'm a **Senior Mobile Developer with 8+ years of experience**, specializing in **Flutter development, mobile architecture, and production-grade applications**.
 
-🎯 I'm a **solution-focused mobile developer** with 7+ years of experience building modern, fast, and scalable apps across platforms.
+My focus is on building reliable, maintainable, and scalable mobile solutions — particularly in **Fintech, enterprise applications, and real-time systems**.
 
-💡 From native to Flutter and React Native, I bring **deep cross-platform expertise** and a passion for clean, maintainable code.
-
----
-
-## 🚀 What I Do Best
-
-- 📱 **Cross-platform development**: React Native & Flutter apps for Android & iOS
-- 🍏 **Native mobile development**: Swift, Kotlin, and Java for performance-critical features
-- 🔥 **Backend integration**: RESTful APIs, Firebase, SQLite, Realm
-- 🧠 **Pixel-perfect UI/UX**: Responsive layouts, animations, and platform-specific UI
-- 🧰 **Architecture & State Management**: Clean Architecture, Redux, Bloc, Riverpod, GetX, Provider
-- 🚀 **Deployment**: App Store & Google Play, OTA updates (CodePush), CI/CD with GitHub Actions
-
-> I don’t just code apps — I deliver **production-ready solutions** that users love and businesses value.
+I enjoy solving complex technical challenges, optimizing application performance, and exploring how AI can improve modern software development.
 
 ---
 
-## 🧰 Tech Stack & Tools
+### 🚀 What I Focus On
 
-`React Native` `Flutter` `Swift` `Kotlin` `Dart` `Java`  
-`Firebase` `REST API` `SQLite` `Realm` `Redux` `Bloc`  
-`GitHub Actions` `CodePush` `AI SDKs` `Figma` `Xcode` `Android Studio`
-
----
-
-## 📱 Featured Projects
-
-**📦 E-commerce Platform**  
-Multi-vendor support, payment integration, real-time order tracking  
-🔧 React Native · Firebase · Stripe
-
-**🏥 Hospital Management App**  
-Appointment booking, prescriptions, real-time chat  
-🔧 Flutter · REST API · Firebase
-
-**🔢 Numerology App**  
-Name/date-based insights, life path chart, yearly summaries  
-🔧 Flutter · Firebase · SQLite
+- 📱 **Flutter Engineering** — High-performance, cross-platform applications for Android & iOS
+- 🏗️ **Mobile Architecture** — Clean Architecture, modular design, SOLID principles, and scalable codebases
+- ⚡ **Performance Optimization** — Rendering, widget lifecycle, memory management, and smooth UI experiences
+- 📊 **Fintech & Real-time Applications** — Financial applications, live market data, WebSockets, and event-driven UI
+- 🔄 **State Management** — Bloc, Cubit, Riverpod, Provider, and reactive programming
+- 🔐 **Security & Integration** — Secure authentication, REST APIs, native integrations, and data protection
+- 🚀 **Mobile Delivery** — CI/CD, automated builds, and App Store & Google Play releases
+- 🤖 **AI-assisted Development** — Exploring AI tools, coding agents, and AI-powered development workflows
 
 ---
 
-## 🤝 Let’s Connect
+### 🛠️ Tech Stack
 
-📧 thachhunter1@gmail.com | 🌐 https://github.com/HunterT11
+**Mobile Development**
+
+`Flutter` `Dart` `React Native` `Kotlin` `Swift` `Java`
+
+**Architecture & Engineering**
+
+`Clean Architecture` `SOLID` `Design Patterns` `Modular Architecture` `Dependency Injection`
+
+**State Management & Data**
+
+`Bloc` `Cubit` `Riverpod` `Provider` `Redux` `REST API` `WebSocket` `Firebase` `SQLite`
+
+**Tools & DevOps**
+
+`Git` `GitHub Actions` `CI/CD` `Fastlane` `Xcode` `Android Studio` `Figma`
+
+**Currently Exploring**
+
+`NestJS` `Node.js` `Backend Architecture` `AI Coding Agents` `AI SDKs`
 
 ---
 
-## 💼 Why Work With Me?
+### 💡 Engineering Interests
 
-✔️ 7+ years of real-world mobile experience  
-✔️ Understand both **technical and business goals**  
-✔️ Experienced with full-cycle delivery (from scratch to store)  
-✔️ Strong communicator & team collaborator  
-✔️ Agile development & product ownership mindset
+**Scalable Mobile Architecture**
+
+Designing maintainable Flutter applications with clear separation of concerns, testable components, and reusable modules.
+
+**Real-time Mobile Systems**
+
+Building responsive applications capable of handling frequent data updates, asynchronous events, and complex UI states.
+
+**Performance & User Experience**
+
+Understanding how Flutter renders frames, manages widgets, and processes updates to deliver smooth, efficient experiences.
+
+**AI & Developer Productivity**
+
+Exploring AI-assisted workflows, reusable development skills, and automation to improve code quality and engineering efficiency.
 
 ---
 
-## ⚡ Let's Build Something That Makes Impact
+### 📱 Selected Project Experience
 
-🎯 Whether you're a startup, enterprise, or agency — I help bring your vision to life with:
+**📈 Financial & Enterprise Applications**
 
-✅ Stunning cross-platform UI  
-✅ Scalable and secure backend integrations  
-✅ Real-time features using modern tools  
-✅ Fast, responsive, and production-ready apps
+Mobile solutions focused on secure workflows, complex business requirements, data visualization, and reliable production delivery.
 
-🔥 Let’s build something users will love — and use every day!
+**🔢 Numerology & Lifestyle Application**
+
+A Flutter-based application offering personalized numerology insights, interactive charts, and user-friendly experiences.
+
+**🏥 Healthcare & Business Applications**
+
+Mobile applications involving API integration, structured workflows, data management, and cross-platform delivery.
+
+---
+
+### 🌱 Currently Learning & Improving
+
+- Advanced Flutter performance and rendering optimization
+- Scalable architecture for enterprise mobile applications
+- Real-time data processing and WebSocket integration
+- Backend development with Node.js and NestJS
+- AI-assisted software engineering and development automation
+
+---
+
+### 🤝 Let's Connect
+
+I'm always interested in discussing **Flutter, mobile architecture, Fintech technology, AI-driven development, and software engineering**.
+
+📧 **Email:** thachhunter1@gmail.com
+
+💻 **GitHub:** [HunterT11](https://github.com/HunterT11)
+
+---
+
+*Build with purpose. Design for scale. Keep improving.*
